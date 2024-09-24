@@ -1,1 +1,1 @@
-<https://github.com/YoungWetto/ono-tebe-nado>
+https://github.com/YoungWetto/ono-tebe-nado
