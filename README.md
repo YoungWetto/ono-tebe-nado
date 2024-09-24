@@ -12,3 +12,4 @@
 
 _Сделано с любвоью Wetto **x** [Я.Практикум](https://practicum.yandex.ru/)_
 
+<https://github.com/YoungWetto/ono-tebe-nado>
