@@ -322,7 +322,6 @@
 .footer__links-list {
     display: flex;
     flex-direction: column;
-    list-style: circle;
     align-self: center;
     align-items: center;
     list-style: none;
